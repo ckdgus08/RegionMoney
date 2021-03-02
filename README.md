@@ -12,12 +12,11 @@
 
 ### 사용된 기술
 
-![사용된기술](http://drive.google.com/uc?export=view&id=1Mo4QygIeXwxYX_SAi7Sf5bt5zgjEPiGa) 
+안드로이드 스튜디오 / google map API / MYSQL / JSP 웹 서버 / 데이터 마이닝 / 데이터 파싱 / http통신
 
 ### 시연 영상 
 
 [![시연영상]( https://img.youtube.com/vi/EdJK2un_ErI/0.jpg)](https://www.youtube.com/embed/EdJK2un_ErI)
-
 
 
 발표자료 : [다운로드](https://drive.google.com/file/d/1FL4FDxZwKNe8twacEryco0yxA2GAQUmQ/view?usp=sharing)
