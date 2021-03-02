@@ -19,4 +19,4 @@
 [![시연영상]( https://img.youtube.com/vi/EdJK2un_ErI/0.jpg)](https://www.youtube.com/embed/EdJK2un_ErI)
 
 
-발표자료 : [다운로드](https://drive.google.com/file/d/1FL4FDxZwKNe8twacEryco0yxA2GAQUmQ/view?usp=sharing)
+[발표자료 보기](https://drive.google.com/file/d/1FL4FDxZwKNe8twacEryco0yxA2GAQUmQ/view?usp=sharing)
