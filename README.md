@@ -12,7 +12,7 @@
 
 ### 사용된 기술
 
-![텍스트](http://drive.google.com/uc?export=view&id=1Mo4QygIeXwxYX_SAi7Sf5bt5zgjEPiGa) 
+![사용된기술](http://drive.google.com/uc?export=view&id=1Mo4QygIeXwxYX_SAi7Sf5bt5zgjEPiGa) 
 
 ### 시연 영상 
 
